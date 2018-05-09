@@ -22,7 +22,7 @@ print (time.asctime(time.localtime(stinfo.st_atime)))
 
 print()
 print('Enter the the new file time with date time. e.g. 2011.01.08 18:00:50')
-file1w1 = input('Enter the new access time in: ')
+file1w1 = input('Enter the new access time: ')
 file1w2 = input('Enter the new modified time: ')
 file1w3 = input('Enter the new creation time: ')
 print()
