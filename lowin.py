@@ -1,4 +1,6 @@
 #coding: utf-8
+#Mindset Security
+#v0.5
 #!/usr/bin/python3
 
 from colorama import init, Fore, Back, Style
